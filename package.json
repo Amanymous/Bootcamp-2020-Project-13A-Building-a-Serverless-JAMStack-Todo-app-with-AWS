@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@aws-cdk/app-delivery": "^1.82.0",
     "aws-cdk": "^1.82.0"
   }
 }
